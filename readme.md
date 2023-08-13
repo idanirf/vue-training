@@ -11,6 +11,13 @@ En esta sección se encuentra el primer curso que he completado: "Vue 3 desde Ce
 - **Carpeta:** vue-0
 - **Descripción:** Este curso es una introducción completa a Vue 3, el popular framework de JavaScript utilizado para construir interfaces de usuario interactivas y reactivas. Se cubren los fundamentos de Vue, incluyendo la sintaxis de plantillas, directivas, componentes, reactividad y más.
 
+## Curso Introducción a Componentes en Vue (vue-1)
+
+En esta sección se encuentra el segundo curso que estoy realizando: "Introducción a Componentes en Vue" de EscuelaVue. Aquí tienes algunos detalles sobre este nuevo curso:
+
+- **Carpeta:** vue-1
+- **Descripción:** En este curso, aprenderé sobre el concepto fundamental de componentes en Vue. Los componentes son bloques de construcción reutilizables que permiten crear interfaces de usuario más complejas y mantenibles. Exploraré cómo definir, usar y comunicarse entre componentes, lo que es esencial para el desarrollo eficiente en Vue.
+
 A medida que continúo avanzando y completando otros cursos de Vue, agregaré las carpetas correspondientes en este repositorio y actualizaré esta documentación para reflejar los nuevos contenidos.
 
 ## ¿Cómo clonar el repositorio?
@@ -23,4 +30,5 @@ Si deseas clonar este repositorio para acceder a los códigos de los distintos c
 
 ```bash
 git clone https://github.com/idanirf/vue-training 
+
 
